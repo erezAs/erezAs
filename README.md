@@ -1,18 +1,17 @@
 👋 Hello there! I'm Erez Asmara,
 
 Full stack developer with a solid 2 years of experience.
-My journey in the world of coding began 2 Years ago,
-and I've been on a constant quest to expand my knowledge and contribute meaningfully to the tech community.
+I've been on a constant quest to expand my knowledge and make meaningful contributions to the tech community.
 
 🚀 About Me:
 
 🌐 Currently exploring microservices architecture and database optimization.
+
 📚 Always eager to learn and stay updated with the latest in tech.
 
 🤝 Actively seeking opportunities to contribute to open-source projects.
 
-📈 GitHub Stats:
-![Your GitHub Stats](Your GitHub Stats Badge URL)
+⚡ Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
@@ -25,6 +24,8 @@ and I've been on a constant quest to expand my knowledge and contribute meaningf
 ![Jenkins](https://img.shields.io/badge/Jenkins-%23000000?style=for-the-badge&logo=Jenkins)&nbsp;
 ![Css3](https://img.shields.io/badge/CSS3-%237EC8E3?style=for-the-badge&logo=css3&logoColor=%23FFFFFF)&nbsp;
 ![HTML$](https://img.shields.io/badge/HTML5-%23FFA500?style=for-the-badge&logo=html5&logoColor=%23FFFFFF)&nbsp;
+
+![Top language](https://github-readme-stats.vercel.app/api/top-langs/?username=erezasmara&langs_count=10&layout=compact&theme=react&hide_border=true)
 
 <!--
 **erezasmara/erezasmara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
