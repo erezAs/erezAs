@@ -1,4 +1,4 @@
-👋 Hello there! I'm Erez Asmara,
+👋 Hello there! I'm Erez,
 
 Full stack developer with a solid 2 years of experience.<br>
 I've been on a constant quest to expand my knowledge and make meaningful contributions to the tech community.
