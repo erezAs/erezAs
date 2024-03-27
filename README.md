@@ -25,7 +25,7 @@ I've been on a constant quest to expand my knowledge and make meaningful contrib
 ![Css3](https://img.shields.io/badge/CSS3-%237EC8E3?style=for-the-badge&logo=css3&logoColor=%23FFFFFF)&nbsp;
 ![HTML$](https://img.shields.io/badge/HTML5-%23FFA500?style=for-the-badge&logo=html5&logoColor=%23FFFFFF)&nbsp;
 
-![Top language](https://github-readme-stats.vercel.app/api/top-langs/?username=erezasmara&langs_count=10&layout=compact&theme=react&hide_border=true)
+![Top language](https://github-readme-stats.vercel.app/api/top-langs/?username=erezAs&langs_count=10&layout=compact&theme=react&hide_border=true)
 
 <!--
 **erezasmara/erezasmara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
